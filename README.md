@@ -7,5 +7,11 @@ This project addresses the challenge by designing and implementing a real-time a
 
 The system was developed using Python and integrates several key libraries and frameworks. OpenCV facilitates video capture from a webcam, MediaPipe is used for hand detection and landmark tracking, and pyttsx3 provides offline speech synthesis capabilities. Together, these components form a pipeline capable of capturing, classifying, and vocalizing hand gestures in real time using only a standard computing device and webcam.
 
+## Dataset
+Download the dataset on kaggle (<a href='https://www.kaggle.com/datasets/datamunge/sign-language-mnist'>Sign Language MNIST</a> ), create a folder named "data" in the project folder and place the _"sign_mnist_train"_ and _"sign_mnist_test"_ datasets within.
+
+## Building and running
+Run the cells in the notebook _sign_language_notebook.ipynb_ to build and train the model then run the program _sign_language_program.py_
+
 ## Disclaimer
 _Using any part or entirety of this work as a requirement for any course or project requirement is considered cheating._
