@@ -13,5 +13,8 @@ Download the <a href='https://www.kaggle.com/datasets/datamunge/sign-language-mn
 ## Building and running
 Run the cells in the notebook _sign_language_notebook.ipynb_ to build and train the model then run the program _sign_language_program.py_
 
+## Paper
+Read the project paper here: <a href='https://drive.google.com/file/d/1kQh2uwQhUgaBWHHiE45m6EDZUgyqPlDP/view?usp=sharing'>Sign to speech paper</a>
+
 ## Disclaimer
 _Using any part or entirety of this work as a requirement for any course or project requirement is considered cheating._
